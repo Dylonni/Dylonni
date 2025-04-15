@@ -27,6 +27,7 @@ Lasty, here is a link to my [portfolio](https://dylonni.me) if you want to conta
 [![B2BR](./screenshots/b2brr.png)](https://github.com/Dylonni/42_born_to_be_root)
 [![SOLONG](./screenshots/slong.png)](https://github.com/Dylonni/42_so_long)
 [![SOLONG](./screenshots/pswap.png)](https://github.com/Dylonni/42_push_swap)
+[![PHILO](./screenshots/pipex.png)](https://github.com/Dylonni/42_pipex)
 [![PHILO](./screenshots/philo.png)](https://github.com/Dylonni/42_philosphers)
 [![CUBED](./screenshots/cub3d.png)](https://github.com/Dylonni/42_cub3d)
 [![CPP04](./screenshots/cpp04.png)](https://github.com/Dylonni/42_CPP_00_to_04)
