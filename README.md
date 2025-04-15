@@ -21,9 +21,9 @@ Lasty, here is a link to my [portfolio](https://dylonni.me) if you want to conta
 
 ## 42 projects
 
-[![LIBFT](./screenshots/libft.png)](https://github.com/Dylonni/42_libft)
+[![LIBFT](./screenshots/libf.png)](https://github.com/Dylonni/42_libft)
 [![PRINTF](./screenshots/printf.png)](https://github.com/Dylonni/42_ft_printf)
-[![GNL](./screenshots/gnl.png)](https://github.com/Dylonni/42_get_next_line)
+[![GNL](./screenshots/gn.png)](https://github.com/Dylonni/42_get_next_line)
 [![B2BR](./screenshots/b2br.png)](https://github.com/Dylonni/42_born_to_be_root)
 [![SOLONG](./screenshots/solong.png)](https://github.com/Dylonni/42_so_long)
 [![CUBED](./screenshots/cub3d.png)](https://github.com/Dylonni/42_cub3d)
