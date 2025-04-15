@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 
 Here you can see my projects, mainly done during my journey at 42 School.  
 There are also some personal side projects, feel free to check them out !  
-Lasty, here is a link to my ![portfolio](https://dylonni.me) if you want to contact me. I will (C) you Around :)
+Lasty, here is a link to my [portfolio](https://dylonni.me) if you want to contact me. I will (C) you Around :)
 
 ## 42 projects
 
-![LIBFT](./screenshots/libft.png)![PRINTF](./screenshots/printf.png)![b2br](./screenshots/b2br.png)
+[![LIBFT](./screenshots/libft.png)(https://github.com/Dylonni/42_libft)]
+[![PRINTF](./screenshots/printf.png)(https://github.com/Dylonni/42_ft_printf)]
+[![GNL](./screenshots/gnl.png)(https://github.com/Dylonni/42_get_next_line)]
+[![B2BR](./screenshots/b2br.png)(https://github.com/Dylonni/42_born_to_be_root)]
