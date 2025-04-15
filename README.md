@@ -21,4 +21,4 @@ Lasty, here is a link to my portfolio if you want to contact me. I will (C) you 
 
 ## 42 projects
 
-![LIBFT](./screenshots/libft.png)![PRINTF](./screenshots/printf.png)![b2br](./screenshots/b2br2.png)
+![LIBFT](./screenshots/libftt.png)![PRINTF](./screenshots/printf.png)![b2br](./screenshots/b2br2.png)
