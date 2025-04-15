@@ -21,4 +21,4 @@ Lasty, here is a link to my ![portfolio](https://dylonni.me) if you want to cont
 
 ## 42 projects
 
-![LIBFT](./screenshots/libftt.png)![PRINTF](./screenshots/printf.png)![b2br](./screenshots/b2br2.png)
+![LIBFT](./screenshots/libft.png)![PRINTF](./screenshots/printf.png)![b2br](./screenshots/b2br.png)
