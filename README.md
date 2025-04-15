@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Dylonni/Dylonni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,4 +21,4 @@ Lasty, here is a link to my portfolio if you want to contact me. I will (C) you 
 
 ## 42 projects
 
-![LIBFT](./screenshots/Libft.png)
+![LIBFT](./screenshots/libft.png)
