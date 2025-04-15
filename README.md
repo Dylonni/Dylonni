@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![HELLO](../screenshots/banner.jpg)
+![HELLO](./screenshots/banner.jpg)
 # Welcome to my github page !
 
 Here you can see my projects, mainly done during my journey at 42 School.
@@ -23,4 +23,4 @@ Lasty, here is a link to my portfolio if you want to contact me. I will (C) you 
 
 ## 42 projects
 
-![LIBFT](../screenshots/Libft.png)
+![LIBFT](./screenshots/Libft.png)
