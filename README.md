@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 ![HELLO](./screenshots/banner.jpg)
 # Welcome to my github page !
 
-Here you can see my projects, mainly done during my journey at 42 School.
-There are also some personal side projects, feel free to check them out !
-Lasty, here is a link to my portfolio if you want to contact me. I will (C) you Around :)
+Here you can see my projects, mainly done during my journey at 42 School.  
+There are also some personal side projects, feel free to check them out !  
+Lasty, here is a link to my ![portfolio](https://dylonni.me) if you want to contact me. I will (C) you Around :)
 
 ## 42 projects
 
