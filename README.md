@@ -22,14 +22,14 @@ Lasty, here is a link to my [portfolio](https://dylonni.me) if you want to conta
 ## 42 projects
 
 [![LIBFT](./screenshots/libft.png)](https://github.com/Dylonni/42_libft)
+[![CUBED](./screenshots/cub3d.png)](https://github.com/Dylonni/42_cub3d)
 [![PRINTF](./screenshots/printf.png)](https://github.com/Dylonni/42_ft_printf)
-[![GNL](./screenshots/gnl2.png)](https://github.com/Dylonni/42_get_next_line)
 [![B2BR](./screenshots/b2brr.png)](https://github.com/Dylonni/42_born_to_be_root)
+[![GNL](./screenshots/gnl2.png)](https://github.com/Dylonni/42_get_next_line)
 [![SOLONG](./screenshots/slong.png)](https://github.com/Dylonni/42_so_long)
 [![PSWAP](./screenshots/pswap.png)](https://github.com/Dylonni/42_push_swap)
 [![PIPEX](./screenshots/pipex.png)](https://github.com/Dylonni/42_pipex)
 [![PHILO](./screenshots/philo.png)](https://github.com/Dylonni/42_philosphers)
 [![MSHELL](./screenshots/minishell.png)](https://github.com/Dylonni/42_minishell)
-[![CUBED](./screenshots/cub3d.png)](https://github.com/Dylonni/42_cub3d)
 [![CPP04](./screenshots/cpp04.png)](https://github.com/Dylonni/42_CPP_00_to_04)
 [![CPP59](./screenshots/cpp59.png)](https://github.com/Dylonni/42_CPP_05_to_09)
