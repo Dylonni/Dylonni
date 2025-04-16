@@ -35,4 +35,7 @@ Lasty, here is a link to my [portfolio](https://dylonni.me) if you want to conta
 [![CPP59](./screenshots/cpp59.png)](https://github.com/Dylonni/42_CPP_05_to_09)
 [![INCP](./screenshots/incep.png)](https://github.com/Dylonni/42_inception)
 [![IRC](./screenshots/irc.png)](https://github.com/Dylonni/42_ft_irc)
-[![TRSCD](./screenshots/trans.png)](https://github.com/Dylonni/42_ft_transcendence)
+[![TRSCD](./screenshots/trans.png)](https://github.com/Dylonni/42_ft_transcendence)  
+
+![Dylonni's Stats](https://github-readme-stats.vercel.app/api?username=Dylonni&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Dylonni's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dylonni&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
