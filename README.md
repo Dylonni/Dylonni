@@ -26,11 +26,22 @@ There are the technologies i have been using so far, amongst some others !
 ### Dev Languages
 
 ![C](./screenshots/c.svg)
+<img src="./screenshots/c.svg" alt="C" width="30" height="30">
+
 ![CPP](./screenshots/cpp.svg)
+<img src="./screenshots/cpp.svg" alt="CPP" width="30" height="30">
+
 ![JAVASCRIPT](./screenshots/javascript.svg)
+<img src="./screenshots/javascript.svg" alt="JAVASCRIPT" width="30" height="30">
+
 ![BASH](./screenshots/bash.svg)
+<img src="./screenshots/bash.svg" alt="BASH" width="30" height="30">
+
 ![HTML](./screenshots/html.svg)
+<img src="./screenshots/html.svg" alt="HTML" width="30" height="30">
+
 ![CSS](./screenshots/css.svg)
+<img src="./screenshots/css.svg" alt="CSS" width="30" height="30">
 
 ### Dev Environment
 
