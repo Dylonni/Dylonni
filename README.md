@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Here you can see my projects, mainly done during my journey at 42 School.  
 There are also some personal side projects, feel free to check them out !  
-Lasty, here is a link to my [portfolio](https://dylonni.me) if you want to contact me or see about my personal experiences. I will (C) you Around :)
+Lastly, here is a link to my [portfolio](https://dylonni.me) if you want to contact me or see about my personal experiences. I will (C) you Around :)
 
 ## Technical stack ⚡  
 
