@@ -25,50 +25,41 @@ There are the technologies i have been using so far, amongst some others !
 
 ### Dev Languages
 
-![C](./screenshots/c.svg)
 <img src="./screenshots/c.svg" alt="C" width="30" height="30">
-
-![CPP](./screenshots/cpp.svg)
 <img src="./screenshots/cpp.svg" alt="CPP" width="30" height="30">
-
-![JAVASCRIPT](./screenshots/javascript.svg)
 <img src="./screenshots/javascript.svg" alt="JAVASCRIPT" width="30" height="30">
-
-![BASH](./screenshots/bash.svg)
 <img src="./screenshots/bash.svg" alt="BASH" width="30" height="30">
-
-![HTML](./screenshots/html.svg)
 <img src="./screenshots/html.svg" alt="HTML" width="30" height="30">
-
-![CSS](./screenshots/css.svg)
 <img src="./screenshots/css.svg" alt="CSS" width="30" height="30">
 
 ### Dev Environment
 
-![LINUX](./screenshots/linux.svg)
-![UBUNTU](./screenshots/ubuntu.svg)
-![WINDOWS](./screenshots/windows.svg)
-![GIT](./screenshots/git.svg)
-![VSCODE](./screenshots/vscode.svg)
+<img src="./screenshots/linux.svg" alt="LINUX" width="30" height="30">
+<img src="./screenshots/ubuntu.svg" alt="UBUNTU" width="30" height="30">
+<img src="./screenshots/windows.svg" alt="WINDOWS" width="30" height="30">
+<img src="./screenshots/git.svg" alt="GIT" width="30" height="30">
+<img src="./screenshots/vscode.svg" alt="VSCODE" width="30" height="30">
 
 ### DevOps Tools and Deployment
 
-![PROMETHEUS](./screenshots/prometheus.svg)
-![GRAFANA](./screenshots/grafana.svg)
-![GCP](./screenshots/gcp.svg)
-![DOCKER](./screenshots/docker.svg)
-![ANSIBLE](./screenshots/ansible.svg)
-![TERRAFORM](./screenshots/terraform.svg)
+<img src="./screenshots/prometheus.svg" alt="PROMETHEUS" width="30" height="30">
+<img src="./screenshots/grafana.svg" alt="GRAFANA" width="30" height="30">
+<img src="./screenshots/gcp.svg" alt="GCP" width="30" height="30">
+<img src="./screenshots/docker.svg" alt="DOCKER" width="30" height="30">
+<img src="./screenshots/ansible.svg" alt="ANSIBLE" width="30" height="30">
+<img src="./screenshots/terraform.svg" alt="TERRAFORM" width="30" height="30">
+
 
 ### Web Development
 
-![BOOTSTRAP](./screenshots/bootstrap.svg)
-![NODEJS](./screenshots/nodejs.svg)
-![VUEJS](./screenshots/vuejs.svg)
-![EXPRESSJS](./screenshots/expressjs.svg)
-![NGINX](./screenshots/nginx.svg)
-![POSTGRE](./screenshots/postgresql.svg)
-![SQLITE](./screenshots/sqlite.svg)
+<img src="./screenshots/bootstrap.svg" alt="BOOTSTRAP" width="30" height="30">
+<img src="./screenshots/nodejs.svg" alt="NODEJS" width="30" height="30">
+<img src="./screenshots/vuejs.svg" alt="VUEJS" width="30" height="30">
+<img src="./screenshots/expressjs.svg" alt="EXPRESSJS" width="30" height="30">
+<img src="./screenshots/nginx.svg" alt="NGINX" width="30" height="30">
+<img src="./screenshots/postgresql.svg" alt="POSTGRESQL" width="30" height="30">
+<img src="./screenshots/sqlite.svg" alt="SQLITE" width="30" height="30">
+
 
 ## 42 Common Core Projects
 
