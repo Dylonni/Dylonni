@@ -19,13 +19,13 @@ Here you can see my projects, mainly done during my journey at 42 School.
 There are also some personal side projects, feel free to check them out !  
 Lasty, here is a link to my [portfolio](https://dylonni.me) if you want to contact me or see about my personal experiences. I will (C) you Around :)
 
-## Languages and Technical stack ⚡  
+## Technical stack ⚡  
 
 There are the technologies i have been using so far, amongst some others ! 
 
 ### Dev Languages
 
-<div style="display: flex; gap: 7px;">
+<div style="display: flex; gap: 12px;">
     <img src="./screenshots/c.svg" alt="C" width="40" height="40">
     <img src="./screenshots/cpp.svg" alt="CPP" width="40" height="40">
     <img src="./screenshots/javascript.svg" alt="JAVASCRIPT" width="40" height="40">
@@ -36,7 +36,7 @@ There are the technologies i have been using so far, amongst some others !
 
 ### Dev Environment
 
-<div style="display: flex; gap: 7px;"> 
+<div style="display: flex; gap: 12px;"> 
     <img src="./screenshots/linux.svg" alt="LINUX" width="40" height="40">
     <img src="./screenshots/ubuntu.svg" alt="UBUNTU" width="40" height="40">
     <img src="./screenshots/windows.svg" alt="WINDOWS" width="40" height="40">
@@ -46,7 +46,7 @@ There are the technologies i have been using so far, amongst some others !
 
 ### DevOps Tools and Deployment
 
-<div style="display: flex; gap: 7px;"> 
+<div style="display: flex; gap: 12px;"> 
     <img src="./screenshots/prometheus.svg" alt="PROMETHEUS" width="40" height="40">
     <img src="./screenshots/grafana.svg" alt="GRAFANA" width="40" height="40">
     <img src="./screenshots/gcp.svg" alt="GCP" width="40" height="40">
@@ -57,7 +57,7 @@ There are the technologies i have been using so far, amongst some others !
 
 ### Web Development
 
-<div style="display: flex; gap: 7px;"> 
+<div style="display: flex; gap: 12px;"> 
     <img src="./screenshots/bootstrap.svg" alt="BOOTSTRAP" width="40" height="40">
     <img src="./screenshots/nodejs.svg" alt="NODEJS" width="40" height="40">
     <img src="./screenshots/vuejs.svg" alt="VUEJS" width="40" height="40">
