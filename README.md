@@ -52,13 +52,7 @@ There are the technologies i have been using so far, amongst some others !
 
 ### Web Development
 
-<img src="./screenshots/bootstrap.svg" alt="BOOTSTRAP" width="30" height="30">
-<img src="./screenshots/nodejs.svg" alt="NODEJS" width="30" height="30">
-<img src="./screenshots/vuejs.svg" alt="VUEJS" width="30" height="30">
-<img src="./screenshots/expressjs.svg" alt="EXPRESSJS" width="30" height="30">
-<img src="./screenshots/nginx.svg" alt="NGINX" width="30" height="30">
-<img src="./screenshots/postgresql.svg" alt="POSTGRESQL" width="30" height="30">
-<img src="./screenshots/sqlite.svg" alt="SQLITE" width="30" height="30">
+<img src="./screenshots/bootstrap.svg" alt="BOOTSTRAP" width="30" height="30"><img src="./screenshots/nodejs.svg" alt="NODEJS" width="30" height="30"><img src="./screenshots/vuejs.svg" alt="VUEJS" width="30" height="30"><img src="./screenshots/expressjs.svg" alt="EXPRESSJS" width="30" height="30"><img src="./screenshots/nginx.svg" alt="NGINX" width="30" height="30"><img src="./screenshots/postgresql.svg" alt="POSTGRESQL" width="30" height="30"><img src="./screenshots/sqlite.svg" alt="SQLITE" width="30" height="30">
 
 
 ## 42 Common Core Projects
