@@ -17,7 +17,47 @@ Here are some ideas to get you started:
 
 Here you can see my projects, mainly done during my journey at 42 School.  
 There are also some personal side projects, feel free to check them out !  
-Lasty, here is a link to my [portfolio](https://dylonni.me) if you want to contact me. I will (C) you Around :)
+Lasty, here is a link to my [portfolio](https://dylonni.me) if you want to contact me or see about my personal experiences. I will (C) you Around :)
+
+## Languages and Technical stack ⚡  
+
+There are the technologies i have been using so far, amongst some others ! 
+
+### Dev Languages
+
+![C](./screenshots/c.svg)
+![CPP](./screenshots/cpp.svg)
+![JAVASCRIPT](./screenshots/javascript.svg)
+![BASH](./screenshots/bash.svg)
+![HTML](./screenshots/html.svg)
+![CSS](./screenshots/css.svg)
+
+### Dev Environment
+
+![LINUX](./screenshots/linux.svg)
+![UBUNTU](./screenshots/ubuntu.svg)
+![WINDOWS](./screenshots/windows.svg)
+![GIT](./screenshots/git.svg)
+![VSCODE](./screenshots/vscode.svg)
+
+### DevOps Tools and Deployment
+
+![PROMETHEUS](./screenshots/prometheus.svg)
+![GRAFANA](./screenshots/grafana.svg)
+![GCP](./screenshots/gcp.svg)
+![DOCKER](./screenshots/docker.svg)
+![ANSIBLE](./screenshots/ansible.svg)
+![TERRAFORM](./screenshots/terraform.svg)
+
+### Web Development
+
+![BOOTSTRAP](./screenshots/bootstrap.svg)
+![NODEJS](./screenshots/nodejs.svg)
+![VUEJS](./screenshots/vuejs.svg)
+![EXPRESSJS](./screenshots/expressjs.svg)
+![NGINX](./screenshots/nginx.svg)
+![POSTGRE](./screenshots/postgresql.svg)
+![SQLITE](./screenshots/sqlite.svg)
 
 ## 42 Common Core Projects
 
@@ -38,6 +78,8 @@ Lasty, here is a link to my [portfolio](https://dylonni.me) if you want to conta
 [![TRSCD](./screenshots/trans.png)](https://github.com/Dylonni/42_ft_transcendence)  
 
 <br>
+
+## 42 Advanced Projects (Specialization)
 
 ![Dylonni's Stats](https://github-readme-stats.vercel.app/api?username=Dylonni&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![Dylonni's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dylonni&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
