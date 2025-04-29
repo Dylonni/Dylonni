@@ -58,6 +58,7 @@ There are the technologies i have been using so far, amongst some others !
 ### Web Development
 
 <div style="display: flex; gap: 12px;"> 
+    <img src="./screenshots/django.svg" alt="DJANGO" width="40" height="40">
     <img src="./screenshots/bootstrap.svg" alt="BOOTSTRAP" width="40" height="40">
     <img src="./screenshots/nodejs.svg" alt="NODEJS" width="40" height="40">
     <img src="./screenshots/vuejs.svg" alt="VUEJS" width="40" height="40">
