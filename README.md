@@ -78,7 +78,7 @@ There are the technologies i have been using so far, amongst some others !
 [![SOLONG](./screenshots/slong.png)](https://github.com/Dylonni/42_so_long)
 [![PSWAP](./screenshots/pswap.png)](https://github.com/Dylonni/42_push_swap)
 [![PIPEX](./screenshots/pipex.png)](https://github.com/Dylonni/42_pipex)
-[![PHILO](./screenshots/philo.png)](https://github.com/Dylonni/42_philosphers)
+[![PHILO](./screenshots/philo.png)](https://github.com/Dylonni/42_philosophers)
 [![MSHELL](./screenshots/minishell.png)](https://github.com/Dylonni/42_minishell)
 [![CUBED](./screenshots/cub3d.png)](https://github.com/Dylonni/42_cub3d)
 [![CPP04](./screenshots/cpp04.png)](https://github.com/Dylonni/42_CPP_00_to_04)
