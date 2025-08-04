@@ -51,6 +51,7 @@ There are the technologies i have been using so far, amongst some others !
     <img src="./screenshots/grafana.svg" alt="GRAFANA" width="40" height="40">
     <img src="./screenshots/gcp.svg" alt="GCP" width="40" height="40">
     <img src="./screenshots/docker.svg" alt="DOCKER" width="40" height="40">
+    <img src="./screenshots/kubernetes.svg" alt="KUBERNETES" width="40" height="40">
     <img src="./screenshots/ansible.svg" alt="ANSIBLE" width="40" height="40">
     <img src="./screenshots/terraform.svg" alt="TERRAFORM" width="40" height="40">
 </div>
