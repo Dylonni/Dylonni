@@ -92,6 +92,8 @@ There are the technologies i have been using so far, amongst some others !
 
 ## 42 Advanced Projects (Specialization)
 
+[![CLOUD1](./screenshots/cloud1.png)](https://github.com/Dylonni/42_Cloud_1)
+[![BADASS](./screenshots/badass.png)](https://github.com/Dylonni/42_BADASS)
 [![IOT](./screenshots/iot.png)](https://github.com/Dylonni/42_IOT)
 
 
