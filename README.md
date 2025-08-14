@@ -92,5 +92,8 @@ There are the technologies i have been using so far, amongst some others !
 
 ## 42 Advanced Projects (Specialization)
 
+[![IOT](./screenshots/iot.png)](https://github.com/Dylonni/42_IOT)
+
+
 ![Dylonni's Stats](https://github-readme-stats.vercel.app/api?username=Dylonni&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![Dylonni's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dylonni&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
